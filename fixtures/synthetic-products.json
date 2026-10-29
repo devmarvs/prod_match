@@ -1,0 +1,18 @@
+{
+  "private": {
+    "StoreID": "9001", "Code": "PRIVATE-43", "SubCode": "",
+    "Title": "Hoka Torrent 4 running shoe size 43 blue", "SubTitle": "43",
+    "CategoryTags": "running|trail|shoes",
+    "Attributes": "EAN=>04012345001235[|]#brand#=>Hoka One One", "Active": "1"
+  },
+  "followed_public_stores": ["9002", "9003"],
+  "public": [
+    {"StoreID":"9002","Code":"VERIFIED-43","SubCode":"V43","Title":"Hoka Torrent 4 shoe size 43 blue","SubTitle":"","CategoryTags":"trail|shoes","Attributes":"EAN=>04012345001235[|]#brand#=>Hoka One One","Active":"1"},
+    {"StoreID":"9003","Code":"DEDUCED-43","SubCode":"43","Title":"Hoka Torrent 4 running shoe size 43 blue","SubTitle":"43","CategoryTags":"running|trail","Attributes":"EAN_DEDUCTED=>04012345001235[|]#brand#=>Hoka One One","Active":"1"},
+    {"StoreID":"9003","Code":"DEDUCED-42","SubCode":"42","Title":"Hoka Torrent 4 running shoe size 42 blue","SubTitle":"42","CategoryTags":"running|trail","Attributes":"EAN_DEDUCTED=>04012345001235[|]#brand#=>Hoka One One","Active":"1"},
+    {"StoreID":"9002","Code":"NO-EAN-43","SubCode":"","Title":"Hoka Torrent 4 running shoe size 43 blue","SubTitle":"43","CategoryTags":"running|trail","Attributes":"#brand#=>Hoka One One","Active":"1"},
+    {"StoreID":"9002","Code":"INACTIVE-43","SubCode":"","Title":"Hoka Torrent 4 running shoe size 43 blue","SubTitle":"43","CategoryTags":"running|trail","Attributes":"EAN=>04012345001235[|]#brand#=>Hoka One One","Active":"0"},
+    {"StoreID":"9002","Code":"CONFLICTED-43","SubCode":"","Title":"Hoka Torrent 4 running shoe size 43 blue","SubTitle":"43","CategoryTags":"running|trail","Attributes":"EAN=>04012345001235[|]#brand#=>Hoka One One[|]#brand#=>Other Brand","Active":"1"},
+    {"StoreID":"9999","Code":"UNFOLLOWED-43","SubCode":"","Title":"Hoka Torrent 4 running shoe size 43 blue","SubTitle":"43","CategoryTags":"running|trail","Attributes":"EAN=>04012345001235[|]#brand#=>Hoka One One","Active":"1"}
+  ]
+}
