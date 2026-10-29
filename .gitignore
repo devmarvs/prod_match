@@ -1,0 +1,22 @@
+# Original company datasets
+*.csv
+*.zip
+use-case-instructions.pdf
+
+# Confidential/local analysis
+internal_real_smoke.json
+dataset_*_profile.json
+profile_public.log
+
+# Environment and dependencies
+.env
+.env.*
+!.env.example
+/vendor/
+
+# Local files
+.DS_Store
+.idea/
+.vscode/
+*.log
+.phpunit.result.cache
